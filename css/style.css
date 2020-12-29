@@ -9,6 +9,14 @@ body{
     padding: 0;
 }
 
+.add{
+    background-color: #ffffff;
+    border-radius: 30px;
+    padding: .5em .6em;
+    margin-left: .8em;
+    text-align: center;
+}
+
 .note-container{
     display: flex;
     justify-content: space-evenly;

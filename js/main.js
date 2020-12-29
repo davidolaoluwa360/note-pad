@@ -69,3 +69,8 @@ if(localStorage.length > 0){
     note.addNote();
 }
 
+const startNote = document.querySelector(".add");
+startNote.addEventListener("click", () => {
+    note.addNote();
+})
+
